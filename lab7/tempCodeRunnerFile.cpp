@@ -1,0 +1,12 @@
+d1.insert_beg(1);
+    // //cout<<"HERE!!@@";
+    // d1.insert_beg(2);
+    // d1.insert_beg(3);
+    // //cout<<"HEre"<<endl;
+    // d1.insert_afer(100,2);
+    // d1.insert_afer(200,1);
+    // d1.insert_end(1000);
+    // //cout<<"HERERERERER"<<endl;
+    // d1.insert_bef(120000,3);
+    // //cout<<"HERE!!"<<endl;
+    // d1.display();;
